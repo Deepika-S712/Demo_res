@@ -1,1 +1,2 @@
 Hi, This is my first git and github practice session.
+Buddies, How are you?
